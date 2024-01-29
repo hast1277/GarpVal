@@ -1,0 +1,55 @@
+﻿<Window x:Class="GarpValLite.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GarpValLite"
+        mc:Ignorable="d"
+        Title="Inställningar" Height="450" Width="800" Closing="Window_Closing" WindowStyle="ToolWindow">
+    <Grid >
+
+        <GroupBox Header="Sökvägar till Garpdata" Height="80" Width="760" VerticalAlignment="Top">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"></ColumnDefinition>
+                    <ColumnDefinition Width="595"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Name="lblMainDbDirCtree" Grid.Row="0" Grid.Column="0" Content="Databas (Ctree):" Width="123"/>
+                <TextBox Name="txtMainDbDirCtree" Grid.Row="0" Grid.Column="1" Height="23" TextWrapping="Wrap" Text="C:\Garp\Data\Kund\Ctree" Width="595" TextChanged="txtMainDbDirCtree_TextChanged"/>
+                <Button Name="btnMainDbDirCtree" Grid.Row="0" Grid.Column="2" Content="..." Height="20" Click="BtnMainDbDirCtree_Click" Margin="1,5,2,5"/>
+                <Label x:Name="lblMainDbDirRocksDB" Grid.Row="1" Content="Databas (RocksDB):" Width="123"/>
+                <TextBox x:Name="txtMainDbDirRocksDB" Grid.Row="1" Grid.Column="1" Height="23" TextWrapping="Wrap" Text="C:\Garp\Data\Kund\RocksDB" Width="595" TextChanged="txtMainDbDirRocksDB_TextChanged"/>
+                <Button x:Name="btnMainDbDirRocksDB" Grid.Row="1" Grid.Column="2" Content="..." Height="20" Width="20" Click="BtnMainDbDirRocksDB_Click"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Sökväg för klient och server" Height="110" Width="760" Visibility="Visible">
+            <Grid Height="90" VerticalAlignment="Top">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                    <RowDefinition Height="30"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="130"></ColumnDefinition>
+                    <ColumnDefinition Width="595"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <RadioButton x:Name="rbLocal" Grid.Row="0" Click="RbLocal_Click" Visibility="Visible">Manuell</RadioButton>
+                <RadioButton x:Name="rbNetwork" Grid.Row="0" Grid.Column="1" Checked="RbNetwork_Checked" Visibility="Visible" IsChecked="False">N:</RadioButton>
+                <Label Grid.Row="1" Grid.Column="0"  Name="lblMainFolderClient" Content="Huvudmapp Klient:" />
+                <TextBox Grid.Row="1" Grid.Column="1" Name="txtMainFolderClient" Height="23"  TextWrapping="Wrap" Text="\\jvsborfs02\Common\program\garp3\versioner\Client" Width="595"/>
+                <Button Grid.Row="1" Grid.Column="2" Name="btnMainFolderClient" Content="..." Height="20" Width="20" Click="BtnMainFolderClient_Click" IsEnabled="False"></Button>
+                <Label Grid.Row="2" Grid.Column="0" Name="lblMainFolderServer" Content="Huvudmapp Server:" Width="123"/>
+                <TextBox Grid.Row="2" Grid.Column="1" Name="txtMainFolderServer" Height="23" TextWrapping="Wrap" Text="\\jvsborfs02\Common\program\garp3\versioner\Server" Width="595"/>
+                <Button Grid.Row="2" Grid.Column="2" Name="btnMainFolderServer" Content="..." Height="20" Width="20" Click="BtnMainFolderServer_Click" IsEnabled="False"></Button>
+            </Grid>
+        </GroupBox>        
+        <Button Name="btnSave" Content="Spara" HorizontalAlignment="Left" Margin="282,361,0,0" VerticalAlignment="Top" Width="75" Click="BtnSave_Click" Grid.Column="1"/>
+        <Button Name="btnClose" Content="Stäng" HorizontalAlignment="Left" Margin="397,361,0,0" VerticalAlignment="Top" Width="75" Click="BtnClose_Click" Grid.Column="1"/>
+    </Grid>
+</Window>

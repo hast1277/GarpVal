@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GarpValLite.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Client" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\jvsborfs02.jeeves.top\common\program\garp3\versioner\Client</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\jvsborfs02.jeeves.top\common\program\garp3\versioner\Server</Value>
+    </Setting>
+    <Setting Name="MainDbDirCtree" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\garp\data\ctree\000</Value>
+    </Setting>
+    <Setting Name="MainDbDirRocksDb" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Garp\Data\RocksDB\000</Value>
+    </Setting>
+    <Setting Name="localgarp" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

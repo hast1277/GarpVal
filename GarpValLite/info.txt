@@ -1,0 +1,7 @@
+1. Kopiera innehållet i o:\stefan.hall\GarpVal till en lokal mapp på er dator.
+
+2. Redigera inställningarna "MainDbDirCtree" och MainDbDirRocksDB i filen settings.xml efter behov så de pekar på era lokala data. När det gäller sökväg för klient och server så
+   låt de sökvägarna peka mot n: (\\jvsborfs02.jeeves.top\common\program\garp3\versioner\Client för Garpklienten och \\jvsborfs02.jeeves.top\common\program\garp3\versioner\Server
+   för Garpservern. 
+
+3. Högerklicka på GarpValNet och välj "Run as administrator" eller "Kör som administratör" 

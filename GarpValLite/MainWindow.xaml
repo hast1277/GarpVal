@@ -1,0 +1,33 @@
+﻿<Window x:Class="GarpValLite.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GarpValLite" Height="425" Width="230" Loaded="Window_Loaded" WindowStyle="ToolWindow" Initialized="Window_Initialized">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Menu>
+            <MenuItem Header="_Arkiv">
+                <MenuItem Header="_Inställningar" Click="MenuItem_Click"/>
+                <Separator></Separator>
+                <MenuItem Header="_Stäng"/>
+            </MenuItem>
+        </Menu>
+        <ProgressBar Grid.Row="1" Height="30" Width="181"></ProgressBar>
+        <Button x:Name="btnStart" Grid.Row="2" Content="Starta" HorizontalAlignment="Left" Height="33" Margin="50,0,0,7" VerticalAlignment="Bottom" Width="120" Click="btnStart_Click"/>
+        <GroupBox Header="Version" Margin="16">
+            <ListBox x:Name="lbVersions" HorizontalAlignment="Left" Margin="10,10,0,7" Width="151">
+                <ListBox.ContextMenu>
+                    <ContextMenu>
+                        <MenuItem Name="mnuManualPaths" Header="Ange klient och serversökvägar manuellt" Click="mnuManualPaths_Click" />
+                    </ContextMenu>
+                </ListBox.ContextMenu>
+            </ListBox>
+        </GroupBox>
+
+    </Grid>
+
+</Window>

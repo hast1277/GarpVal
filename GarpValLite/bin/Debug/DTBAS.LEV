@@ -1,0 +1,200 @@
+0100      Kontant                                                               4           0     0     0     0     0     0     0     0     0     0     0     0     
+0110      10 dagar netto                                                        1 31        10    0     0     0     0     0     0     0     0     0     5     1500  
+0130      30 dagar netto                                                        1 31        30    0     0     0     0     0     0     0     0     0     5     1500  
+0131      30 dagar netto el 15 dagar -2 %                                       1 311       30    0     15    -20   0     0     0     0     0     0     0     0     
+0210      Fritt v†rt lager                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+0215      Fritt ert lager                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+0220      F.O.B.                                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+03B1      Bring                                                                        58   0     0     0     0     0     0     0     0     0     0     0     0     
+03D1      DHL                                                                          58   0     0     0     0     0     0     0     0     0     0     0     0     
+03P1      Posten                                                                       58   0     0     0     0     0     0     0     0     0     0     0     0     
+03S1      Schenker                                                                     58   0     0     0     0     0     0     0     0     0     0     0     0     
+03U1      UPS                                                                          58   0     0     0     0     0     0     0     0     0     0     0     0     
+0410      S„ljare 10                                                                        0     0     0     0     0     0     0     0     0     0     0     0     
+0420      S„ljare 20                                                                        0     0     0     0     0     0     0     0     0     0     0     0     
+0430      S„ljare 30                                                                        0     0     0     0     0     0     0     0     0     0     0     0     
+0510      Kundkategori 10                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+0520      Kundkategori 20                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+0530      Kundkategori 30                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+06A       Orderrabatt  5 %                                                                  -500  0     0     0     0     0     0     0     0     0     0     0     
+06B       Orderrabatt 10 %                                                                  -1000 0     0     0     0     0     0     0     0     0     0     0     
+06C       Orderrabatt 11 %                                                                  -1100 0     0     0     0     0     0     0     0     0     0     0     
+06D       Orderrabatt 12 %                                                                  -1200 0     0     0     0     0     0     0     0     0     0     0     
+06E       Orderrabatt 13 %                                                                  -1300 0     0     0     0     0     0     0     0     0     0     0     
+06F       Orderrabatt 14 %                                                                  -1400 0     0     0     0     0     0     0     0     0     0     0     
+0710      V†r referens 10                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+0720      V†r referens 20                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+0730      V†r referens 30                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+08K01     Fast %                                                                1           -500  0     0     0     0     0     0     0     0     0     0     0     
+08KA1     Stafflad %                                                            1           -500  -800  -1000 -1200 -1500 0     10    20    30    40    60    0     
+08KA2     Stafflad %                                                            1           -300  -400  -500  -600  -700  0     5     7     10    15    25    0     
+0E0       Offert                                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+0E1       Normalorder                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+0E5       Trepartshandel inom EU                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+0E9       Internorder                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+11CN      Kina                               China                                          0     0     0     0     0     0     0     0     0     0     0     0     
+11DE      Tyskland                           Germany                            E           0     0     0     0     0     0     0     0     0     0     0     0     
+11DK      Danmark                            Denmark                            E           0     0     0     0     0     0     0     0     0     0     0     0     
+11FI      Finland                            Finland                            E           0     0     0     0     0     0     0     0     0     0     0     0     
+11FR      Frankrike                          France                             E           0     0     0     0     0     0     0     0     0     0     0     0     
+11GB      Storbritannien                     United Kingdom                     E           0     0     0     0     0     0     0     0     0     0     0     0     
+11IT      Italien                            Italy                              E           0     0     0     0     0     0     0     0     0     0     0     0     
+11NO      Norge                              Norway                                         0     0     0     0     0     0     0     0     0     0     0     0     
+11US      USA                                USA                                            0     0     0     0     0     0     0     0     0     0     0     0     
+12DKK     Danska kronor                                                                     1210  1210  1210  1210  0     0     0     0     3     0     0     0     
+12EUR     Euro                                                                              8900  8900  8900  8900  0     0     0     0     3     0     0     0     
+12GBP     Brittiska pund                                                                    10000 10000 10000 10000 0     0     0     0     3     0     0     0     
+12NOK     Norska kronor                                                                     1100  1100  1100  1100  0     0     0     0     3     0     0     0     
+12SEK     Svenska kronor                                                                    1000  1000  1000  1000  0     0     0     0     3     0     0     0     
+12USD     US Dollar                                                                         7150  7150  7150  7150  0     0     0     0     3     0     0     0     
+13E       st .  .  .  .  .  .  .  .  .  .    pcs.  .  .  .  .  .  .  .  .  .                0     0     0     0     0     0     0     0     0     0     0     0     
+1510      Standard                           101                                            0     0     0     0     0     0     0     0     0     0     0     0     
+1910      Fras / Standardtext 10                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+1920      Fras / Standardtext 20                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+1930      Fras / Standardtext 30                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+1D1       Leveranssp„rrad                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+1DA       Leveransanm„rkning                                                                0     0     0     0     0     0     0     0     0     0     0     0     
+1R5       Reserverad                                                                        0     0     0     0     0     0     0     0     0     0     0     0     
+1RP       Prognos                                                                           0     0     0     0     0     0     0     0     0     0     0     0     
+25 11     Vid genomg†ng av v†r reskontra har vi funnit att ovanst†ende fakturor             0     0     0     0     0     0     0     0     0     0     0     0     
+25 12     ej betalats p† f”rfallodagen. Om Ni har betalt de senaste dagarna                 0     0     0     0     0     0     0     0     0     0     0     0     
+25 13     kan Ni bortse fr†n denna p†minnelse, om inte, betala omg†ende f”r                 0     0     0     0     0     0     0     0     0     0     0     0     
+25 14     att undvika dr”jsm†lsr„nta samt ytterligare kostnader i „rendet.                  0     0     0     0     0     0     0     0     0     0     0     0     
+25 21     Trots tidigare p†minnelse saknar vi fortfarande betalning p† ovan                 0     0     0     0     0     0     0     0     0     0     0     0     
+25 22     specificerade faktura(or). Om vi ej erh†ller betalning inom 10 dagar              0     0     0     0     0     0     0     0     0     0     0     0     
+25 23     ”verl„mnas „rendet till ett inkassof”retag, vilket medf”r att Ni f†r              0     0     0     0     0     0     0     0     0     0     0     0     
+25 24     ytterligare kostnader. Om n†gon oklarhet f”religger, kontakta oss.                0     0     0     0     0     0     0     0     0     0     0     0     
+3100      Kontant                                                               3           0     0     0     0     0     0     0     0     0     0     0     0     
+3110      10 dagar netto                                                        1           10    0     0     0     0     0     0     0     0     0     0     0     
+3130      30 dagar netto                                                        1           30    0     0     0     0     0     0     0     0     0     0     0     
+3131      30 dagar netto el 15 dagar -2 %                                       1   1       30    0     15    -20   0     0     0     0     0     0     0     0     
+3210      Fritt v†rt lager                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+3215      Fritt ert lager                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+3220      F.O.B.                                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+3301      BILSPEDITION                                                                      0     0     0     0     0     0     0     0     0     0     0     0     
+3302      ASG                                                                               0     0     0     0     0     0     0     0     0     0     0     0     
+3303      POSTENS F™RETAGSPAKET                                                             0     0     0     0     0     0     0     0     0     0     0     0     
+3304      JVG EXPRESS                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+3305      HŽMTAS                                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+3308      V†r BIL                                                                           0     0     0     0     0     0     0     0     0     0     0     0     
+3309      FLYG                                                                              0     0     0     0     0     0     0     0     0     0     0     0     
+3310      B†T                                                                               0     0     0     0     0     0     0     0     0     0     0     0     
+3311      BOAT                                                                              0     0     0     0     0     0     0     0     0     0     0     0     
+3410      Ink”pare/distrikt 10                                                              0     0     0     0     0     0     0     0     0     0     0     0     
+3420      Ink”pare/distrikt 20                                                              0     0     0     0     0     0     0     0     0     0     0     0     
+3430      Ink”pare/distrikt 30                                                              0     0     0     0     0     0     0     0     0     0     0     0     
+3510      Kategori 10                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+3520      Kategori 20                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+3530      Kategori 30                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+36A       Orderrabatt  5 %                                                                  -500  0     0     0     0     0     0     0     0     0     0     0     
+36B       Orderrabatt 10 %                                                                  -1000 0     0     0     0     0     0     0     0     0     0     0     
+3710      V†r referens 10                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+3720      V†r referens 20                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+3730      V†r referens 30                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+38L01     Fast %                                                                1           -500  0     0     0     0     0     0     0     0     0     0     0     
+38LA1     Stafflad %                                                            1           -500  -800  -1000 -1200 -1500 0     10    20    30    40    60    0     
+38LA2     Stafflad %                                                            1           -300  -400  -500  -600  -700  0     5     7     10    15    25    0     
+3D1       Sp„rrad                                                                           0     0     0     0     0     0     0     0     0     0     0     0     
+3DA       Leveransanm„rkning                                                                0     0     0     0     0     0     0     0     0     0     0     0     
+3E0       F”rfr†gan                                                                         0     0     0     0     0     0     0     0     0     0     0     0     
+3E1       Normalorder                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+3R1       Ej bekr„ftad                                                                      0     0     0     0     0     0     0     0     0     0     0     0     
+3R5       Bekr„ftad                                                                         0     0     0     0     0     0     0     0     0     0     0     0     
+3RP       Prognos                                                                           0     0     0     0     0     0     0     0     0     0     0     0     
+4001      Kategori 01                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+4002      Kategori 02                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+4003      Kategori 03                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+441       Materialfel                                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+4612      Omr stdkalkyl med 20%                                                 1           0     200   0     0     0     0     0     0     0     0     0     0     
+4613      Omr stdkalkyl och f-pris                                              1           0     200   0     0     0     0     0     1000  0     5     0     0     
+4623      Ink”pt - V„gt inpris > ink.pris                                        1         00     0     0     0     0     0     0     0     0     0     0     0     
+4624      Tillverkad - VIP > Stdpris                                            3          00     0     0     0     0     0     0     0     0     0     0     0     
+471       Fasta platser                                                                   0 0     0     0     0     0     0     0     0     0     0     0     0     
+4F10      Grupp 10                                                                          0     0     0     0     0     0     0     0     0     0     0     0     
+4F20      Grupp 20                                                                          0     0     0     0     0     0     0     0     0     0     0     0     
+4F30      Grupp 30                                                                          0     0     0     0     0     0     0     0     0     0     0     0     
+4K1       Inkurant                                                                          0     0     0     0     0     0     0     0     0     0     0     0     
+64MIN     Minuter                                                                           60    0     0     0     0     0     0     0     0     0     0     0     
+64TIM     Timmar                                                                            1     0     0     0     0     0     0     0     0     0     0     0     
+LP055     Arkivdokument                                                                     0     0     0     0     0     0     0     0     0     0     0     0     
+LP137     Offertpriser och prislistor                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+LP145     Prisomr„kning/kalkylering                                                         0     0     0     0     0     0     0     0     0     0     0     0     
+LP265     Orderbekr„ftelse-Plocksedel                                                       0     0     0     0     0     0     0     0     0     0     0     0     
+LP276     Bel„ggningsber„kning                                                              0     0     0     0     0     0     0     0     0     0     0     0     
+LP283     Tillv.dokument - mtrl/op-kort o dyl                                               0     0     0     0     0     0     0     0     0     0     0     0     
+LP286     Materialbehov                                                                     0     0     0     0     0     0     0     0     0     0     0     0     
+LP288     Historik material och operationer                                                 0     0     0     0     0     0     0     0     0     0     0     0     
+LP289     Produkter i arbete / Avslut order                                                 0     0     0     0     0     0     0     0     0     0     0     0     
+LP295     Fakturadokument                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+LP296     F”ljesedel/fraktsedel                                                             0     0     0     0     0     0     0     0     0     0     0     0     
+LP305     Kundreskontra                                                                     0     0     0     0     0     0     0     0     0     0     0     0     
+LP320     Anl„ggningsregister                                                               0     0     0     0     0     0     0     0     0     0     0     0     
+LP341     Leverant”rsutbetalning                                                            0     0     0     0     0     0     0     0     0     0     0     0     
+LP405     Reklamationer                                                                     0     0     0     0     0     0     0     0     0     0     0     0     
+LP415     Ink”psorder / Godsmottagning                                                      0     0     0     0     0     0     0     0     0     0     0     0     
+LP426     Inleveransdokument                                                                0     0     0     0     0     0     0     0     0     0     0     0     
+RP02      Tabellregisterrapporter                                                           0     0     0     0     0     0     0     0     0     0     0     0     
+RP10      Kund/Leverant”rsrapporter                                                         0     0     0     0     0     0     0     0     0     0     0     0     
+RP14      Artikelrapporter                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+RP15      Strukturrapporter                                                                 0     0     0     0     0     0     0     0     0     0     0     0     
+RP25      Orderrapporter                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+RP30      Reskontra kund/leverant”r                                                         0     0     0     0     0     0     0     0     0     0     0     0     
+RP35      Kontoplan mm                                                                      0     0     0     0     0     0     0     0     0     0     0     0     
+RP37      Redovisningsrapporter                                                             0     0     0     0     0     0     0     0     0     0     0     0     
+RP38      Bokf”ringsbussen                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+RP39      Statistikrapporter                                                                0     0     0     0     0     0     0     0     0     0     0     0     
+RP41      Ink”psorderrapporter                                                              0     0     0     0     0     0     0     0     0     0     0     0     
+RP51      Rapporter l”nesystem                                                              0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0001  Bolagsnamn saknas                                                                 0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0002                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0003                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0004                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0005                                                         A                          0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0006                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0007                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0008                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB0009                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB000A                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB000B                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB000C                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRB000D                                                                                    0     0     0     0     0     0     0     0     0     0     0     0     
+SYRP000   1=:mctemp 2=: 3=:mctext                                         0101161222222222230     0     0     0     0     0     0     0     0     0     0     0     
+SYTNM0    JVSBORANAN01                       140821090142SYS 010116114426       I           0     0     0     0     0     0     0     0     0     0     0     0     
+SYTPM0                                                                         18           0     0     0     0     0     0     0     0     0     0     0     0     
+WPB00000                                     SYS  WA 140821 08:22:58                     T  0     0     0     0     0     0     0     0     0     0     0     0     
+WPBCUR000                                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+WPBVDAT000                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**A4L                                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**A4S                                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**BAVI                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**BFIL                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**DISK                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**ET18                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**ET6                                                                                   0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**IFIL                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**KONT                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**LFIL                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**OFIL                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**PAVI                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBB**PFIL                                                                                  0     0     0     0     0     0     0     0     0     0     0     0     
+WYBP**A4L                                    Liggande lista                     L0       0  15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**A4S                                    St†ende lista                      S0          15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**BAVI                                   Bankgiroavi i leverant”rsresk      S0       0  15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**BFILc:\BGCDATA.IN                      Fil till Bankgirots LB-rutin       S0       0  376   10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**DISKc:\fil.txt                         "Diskblankett"                     S0       0  0     10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**ET18                                   Etikett 18 rader h”g               S0       0  15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**ET6                                    Etikett 6 rader h”g                S0       0  15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**IFILc:\in408.txt                       Fil f”r uppl„gg ink”psorder        S0       0  0     10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**KONT                                   Kontantkvitto                      S0       0  15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**LFILc:\in292.txt                       Fil f”r automatleverans            S0       0  15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**OFILc:\in258.txt                       Fil f”r uppl„gg order              S0       0  15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**PAVI                                   Postgiroavi leverant”rsresk        S0       0  15    10000 10000 60    80    0     0     0     0     0     0     0     
+WYBP**PFILa:\faktura.in                      Fil Postgirots fakt betaln.serv    S0       0  376   10000 10000 60    80    0     0     0     0     0     0     0     
+WYRP0001  :mctemp                                                                           0     0     0     0     0     0     0     0     0     0     0     0     
+WYRP0002  :                                                                                 0     0     0     0     0     0     0     0     0     0     0     0     
+WYRP0003  :mctext                                                                           0     0     0     0     0     0     0     0     0     0     0     0     
+WYRP0004  :mcpict                                                                           0     0     0     0     0     0     0     0     0     0     0     0     
+WYUNEKO   Ekonomi                                                            000            0     0     0     0     0     0     0     0     0     0     0     0     
+WYUNLAG   Lager                                                              000            0     0     0     0     0     0     0     0     0     0     0     0     
+WYUNORD   Order                                                              000            0     0     0     0     0     0     0     0     0     0     0     0     
+WYUNSYS   System default                     SYS                             000            0     0     0     0     0     0     0     0     0     0     0     8192  

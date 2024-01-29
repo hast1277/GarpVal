@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--<? xml version = "1.0" encoding = "utf-8"?>-->
+<Path>
+  <Client>\\jvsborfs02.jeeves.top\common\program\garp3\versioner\Client</Client>
+  <Server>\\jvsborfs02.jeeves.top\common\program\garp3\versioner\Server</Server>
+  <MainDbDirCtree>C:\garp\database\ctree\000</MainDbDirCtree>
+  <MainDbDirRocksDB>c:\Garp\Data\RocksDB\000</MainDbDirRocksDB>
+</Path>
